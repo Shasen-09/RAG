@@ -1,0 +1,12 @@
+chat/pycache/
+generation/pycache/
+ingestion/pycache/
+retriever/pycache/
+
+pycache/
+*.py[cod]
+
+.env
+
+venv/
+.venv/
